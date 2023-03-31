@@ -25,18 +25,18 @@ class Homework {
 
         // 2 решение
         // for (int i = 0; i < numbers.size(); i++) {
-        // if(numbers.get(i) % 2 == 0){
-        // numbers.remove(i);
-        // i--;
-        // }
+        //     if (numbers.get(i) % 2 == 0) {
+        //         numbers.remove(i);
+        //         i--;
+        //     }
         // }
 
         // 3 решение
         // Iterator<Integer> it = numbers.iterator();
-        // while(it.hasNext()){
-        // if(it.next() % 2 == 0){
-        // it.remove();
-        // }
+        // while (it.hasNext()) {
+        //     if (it.next() % 2 == 0) {
+        //         it.remove();
+        //     }
         // }
     }
 
